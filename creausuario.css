@@ -1,0 +1,38 @@
+h1{
+    font-family: 'Ubuntu', sans-serif;
+}
+
+input.text1{
+    width: 500px;
+    height: 50px;
+}
+
+input.text2{
+    width: 244px;
+    height: 50px;
+}
+
+input.text3{
+    width: 244px;
+    height: 50px;
+}
+
+select.menu1{
+    width: 252px;
+    height: 56px;
+}
+
+input.text4{
+    width: 244px;
+    height: 50px;
+}
+
+input.text5{
+    width: 244px;
+    height: 50px;
+}
+
+input.text6{
+    width: 244px;
+    height: 50px;
+}
